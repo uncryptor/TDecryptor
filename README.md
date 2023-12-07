@@ -35,6 +35,6 @@ TDecryptor was tested to be fully working with the latest Teardown version at th
 
 If the decryptor breaks in a future update, I will likely not update it myself, though I might accept pull requests.
 
-TDecryptor is based on [TDecrypt](https://github.com/lyhyl/TDEDecrypt) to some extent.
+TDecryptor is based on [TDEDecrypt](https://github.com/lyhyl/TDEDecrypt) to some extent.
 
 The code quality is probably not perfect but it works, so...

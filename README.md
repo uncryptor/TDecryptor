@@ -35,12 +35,14 @@ To **Re-encrypt**, run: `TDecryptor.exe "D:\SteamLibrary\steamapps\common\Teardo
 
 To compile from source, you need a compiler with C++ 20 support and make sure the `codecvt` depreciation preprocessor definitions are set.
 
-Other VS versions and/or compilers might work but I have not tested this.
+I used Visual Studio 2022; other VS versions and/or compilers might work but I have not tested this.
 
 # Notes
 
 TDecryptor was tested to be fully working with the latest Teardown version at the time it was created (1.5.2).
 
 If the decryptor breaks in a future update, I will likely not update it myself, though I might accept pull requests.
+
+TDecryptor is based on [TDEDecrypt](https://github.com/lyhyl/TDEDecrypt) to some extent.
 
 The code quality is probably not perfect but it works, so...

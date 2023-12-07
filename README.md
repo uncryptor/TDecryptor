@@ -27,7 +27,7 @@ Decrypted files are then written to `D:\SteamLibrary\steamapps\common\Teardown\D
 
 To compile from source, you need a compiler with C++ 20 support and make sure the `codecvt` depreciation preprocessor definitions are set.
 
-Other VS versions and/or compilers might work but I have not tested this.
+I used Visual Studio 2022; other VS versions and/or compilers might work but I have not tested this.
 
 # Notes
 
